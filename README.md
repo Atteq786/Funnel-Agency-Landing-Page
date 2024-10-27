@@ -18,7 +18,7 @@
 <br />
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
 ![Funel Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 ![Funel Mobile Demo](./readme-images/mobile.png "Mobile Demo")
